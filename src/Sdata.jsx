@@ -28,8 +28,8 @@ const Sdata = [
     },
 
     {
-        imgsrc : "https://pbs.twimg.com/media/EIsfpsQXUAIsYcj.jpg",
         sname :"STRANGER THINGS",
+        imgsrc : "https://pbs.twimg.com/media/EIsfpsQXUAIsYcj.jpg",
         title:"A Netflix Original Series",
         link:"https://www.netflix.com/in/title/80057281"
     },
